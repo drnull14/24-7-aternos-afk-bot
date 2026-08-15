@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "RedDragonAfkBot",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "RDSMP-hbIq.aternos.me",
     "port": 39668,
-    "version": "1.21.11",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -29,9 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 600,
+      "repeat-delay": 7200,
       "messages": [
-        "Hello i am a afk bot",
+        "this is a 2 hour reminder",
         "enjoying the server?",
       ]
     },
